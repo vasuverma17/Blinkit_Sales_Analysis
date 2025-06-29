@@ -39,3 +39,6 @@ Top Categories: Fruits and Vegetables ($0.18M) and Snack Foods ($0.16M) are the 
 ![Image Alt](https://github.com/vasuverma17/Blinkit_Sales_Analysis/blob/main/Screenshot%202025-06-29%20135124.png?raw=true)
 
 
+
+![Image Alt](https://github.com/vasuverma17/Blinkit_Sales_Analysis/blob/main/Screenshot%202025-06-29%20135530.png?raw=true)
+
