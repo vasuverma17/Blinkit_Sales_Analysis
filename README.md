@@ -23,6 +23,8 @@ Tier Contributions: Tier 3 outlets ($472.13K) generate the most sales, followed 
 **5. Outlet Type (Table)**
 Outlet Type Performance: Supermarket Type 1 is the highest performer with $0.8M in sales from 5577 items, maintaining a 3.9 average rating, consistently outperforming other outlet types.
 
+![Image Alt](https://github.com/vasuverma17/Blinkit_Sales_Analysis/blob/main/Screenshot%202025-06-29%20135133.png?raw=true)
+
 **6. Fat Content (Donut Chart)**
 Low Fat Dominance: 'Low Fat' items significantly drive sales with $776.3K, compared to 'Regular' items at $425.4K, highlighting a clear consumer preference.
 
