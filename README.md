@@ -8,6 +8,7 @@ Here's a detailed GitHub summary for each visual chart, including facts and figu
 
 **1. Key Performance Indicators (KPIs)**
 Overall Performance: Blinkit boasts $1.20M in Total Sales, with an Average Sale of $141.0 across 8,523 items, maintaining a strong 3.9 Average Rating.
+![Image Alt]()
 
 **2. Outlet Establishment Trend (Line Chart)**
 Sales Over Time: Outlet sales peaked at $205K in 2018, showing fluctuations from $78K (2010) to $131K (2020), indicating a recent decline from peak performance.
