@@ -14,20 +14,22 @@ Overall Performance: Blinkit boasts $1.20M in Total Sales, with an Average Sale 
 **2. Outlet Establishment Trend (Line Chart)**
 Sales Over Time: Outlet sales peaked at $205K in 2018, showing fluctuations from $78K (2010) to $131K (2020), indicating a recent decline from peak performance.
 
-**3. Fat Content (Donut Chart)**
-Low Fat Dominance: 'Low Fat' items significantly drive sales with $776.3K, compared to 'Regular' items at $425.4K, highlighting a clear consumer preference.
-
-**4. Fat By Outlet (Stacked Bar Chart)**
-Tier Performance by Fat Content: 'Low Fat' sales lead across all tiers (Tier 3: $0.3M Low Fat vs. $0.2M Regular; Tier 2: $0.2M Low Fat vs. $0.1M Regular), consistently outperforming 'Regular' items.
-
-**5. Item Type (Horizontal Bar Chart)**
-Top Categories: Fruits and Vegetables ($0.18M) and Snack Foods ($0.16M) are the highest-selling item types, indicating strong demand in these categories.
-
-**6. Outlet Size (Donut Chart)**
+**3. Outlet Size (Donut Chart)**
 Revenue by Size: Medium outlets ($507.9K) and Small outlets ($444.8K) are the primary revenue drivers, significantly outperforming High-sized outlets ($249.0K).
 
-**7. Outlet Location (Bar Chart)**
+**4. Outlet Location (Bar Chart)**
 Tier Contributions: Tier 3 outlets ($472.13K) generate the most sales, followed by Tier 2 ($393.15K) and Tier 1 ($336.40K), showing varied regional strengths.
 
-**8. Outlet Type (Table)**
+**5. Outlet Type (Table)**
 Outlet Type Performance: Supermarket Type 1 is the highest performer with $0.8M in sales from 5577 items, maintaining a 3.9 average rating, consistently outperforming other outlet types.
+
+**6. Fat Content (Donut Chart)**
+Low Fat Dominance: 'Low Fat' items significantly drive sales with $776.3K, compared to 'Regular' items at $425.4K, highlighting a clear consumer preference.
+
+**7. Fat By Outlet (Stacked Bar Chart)**
+Tier Performance by Fat Content: 'Low Fat' sales lead across all tiers (Tier 3: $0.3M Low Fat vs. $0.2M Regular; Tier 2: $0.2M Low Fat vs. $0.1M Regular), consistently outperforming 'Regular' items.
+
+**8. Item Type (Horizontal Bar Chart)**
+Top Categories: Fruits and Vegetables ($0.18M) and Snack Foods ($0.16M) are the highest-selling item types, indicating strong demand in these categories.
+
+
